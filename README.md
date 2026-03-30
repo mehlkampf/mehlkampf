@@ -9,6 +9,6 @@ Security-focused System Administrator transitioning into Penetration Testing.
 - Patch Management
 
 ## Current Focus
-- Hack The Box
+- TryHackMe
 - Privilege Escalation
 - Web Exploitation
